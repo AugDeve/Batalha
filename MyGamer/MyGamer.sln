@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGamer", "MyGamer.csproj", "{BE1EB126-3DCF-47BE-A9B0-7A6C575791CA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Intaladormy", "Instalador\Intaladormy.vdproj", "{1B2A6EC2-7E0D-2D66-7A00-30B2CE7990D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE1EB126-3DCF-47BE-A9B0-7A6C575791CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1EB126-3DCF-47BE-A9B0-7A6C575791CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1EB126-3DCF-47BE-A9B0-7A6C575791CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1EB126-3DCF-47BE-A9B0-7A6C575791CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2A6EC2-7E0D-2D66-7A00-30B2CE7990D1}.Debug|Any CPU.ActiveCfg = Debug
+		{1B2A6EC2-7E0D-2D66-7A00-30B2CE7990D1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19B131C2-D6B6-47DB-B226-6A3156F80BBC}
+	EndGlobalSection
+EndGlobal
